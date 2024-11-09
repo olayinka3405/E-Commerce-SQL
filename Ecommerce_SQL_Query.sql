@@ -1,4 +1,4 @@
- --Create DataBase ECommerce
+ --Create DataBase ECommerce  
 
 USE [ECommerce]
 
