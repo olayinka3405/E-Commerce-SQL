@@ -35,4 +35,4 @@ The analysis involves the following steps:
 This project illustrates advanced SQL querying capabilities, offering insights that can inform business strategies and improve operational efficiency in e-commerce.
 
 ## Contact
-If you have any questions, feedback, or just want to connect, please reach out to me at abidoyeolayinka@yahoo.com
+If you have any questions, feedback, or just want to connect, kindly reach out to me at abidoyeolayinka@yahoo.com
