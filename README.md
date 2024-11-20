@@ -31,6 +31,9 @@ The analysis involves the following steps:
 - **Sales Performance**: Analyze product sales volume and total revenue.
 - **Delivery Efficiency**: Calculate delivery times and average delivery metrics by month and year.
 
+## Download Report:
+Simply navigate to https://github.com/olayinka3405/Excel-Power-Query-Project/blob/main/Monthly%20Sales%20Report.xlsx and click "View Raw"
+
 ## Conclusion
 This project illustrates advanced SQL querying capabilities, offering insights that can inform business strategies and improve operational efficiency in e-commerce.
 
